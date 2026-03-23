@@ -20,10 +20,6 @@ pip install -r requirements.txt or run `run.bat`
 python main.py
 ```
 
-
-## Pictures:
-![LOG](https://i.imgur.com/oBd2Pbj.png)
-
 ## Usage:
 If you use any of my code please give me credit. Please don't skid and sell if so here:
 - **Bitcoin (BTC):** `bc1qzx85n8z7sk9srq9rj2s6yl4y5jz2nudsx0c3ml`
